@@ -1,8 +1,8 @@
 # React Quiz
 
-[View demo](http://mitchgavan.github.io/react-multi-choice-quiz/)
+[View demo](https://aryan2367.github.io/react-quiz/)
 
-There's also an accompanying [tutorial blog post](https://mitchgavan.com/react-quiz/).
+
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
