@@ -1,6 +1,6 @@
 # React Quiz
 
-[View demo]( https://github.com/aryan2367/react-quiz/)
+[View demo]( https://aryan2367.github.io/react-quiz/)
 
 
 
