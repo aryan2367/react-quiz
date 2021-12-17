@@ -1,6 +1,6 @@
 # React Quiz
 
-[View demo]( https://github.com/aryan2367/react-quiz/pull/new/main)
+[View demo]( https://github.com/aryan2367/react-quiz/)
 
 
 
