@@ -2,7 +2,7 @@
 
 [View demo](http://aryan2367.github.io/react-quiz/)
 
-Created with [Create React App](https://github.com/facebookincubator/create-react-app)
+
 
 ## Get Started
 Install dependencies in your project directory with:
