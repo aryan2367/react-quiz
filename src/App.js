@@ -11,7 +11,7 @@ const App =()=>{
   
     return (
       <div>
-        <Router basename={window.location.pathname || ''}>
+        <Router>
         
       
         
@@ -28,4 +28,4 @@ const App =()=>{
   }
 
 
-export default Ap1p;
+export default App;
